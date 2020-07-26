@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=journey-ad.readme)
+### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
 
 ![](https://github-readme-stats.vercel.app/api?username=journey-ad&hide=[%22issues%22]&show_icons=true)
 <!--
