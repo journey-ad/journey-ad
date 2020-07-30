@@ -42,7 +42,7 @@ Stylus     🕓 2h38m  █▉░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike: Global Offensive  🕘 1 hrs 14 mins
+🔫 Counter-Strike: Global Offensive  🕘 2 hrs 20 mins
 🔫 Insurgency                        🕘 2 hrs 53 mins
 🔫 Fistful of Frags                  🕘 1 hrs 42 mins
 ```
