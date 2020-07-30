@@ -1,6 +1,44 @@
+<img src="https://github.com/journey-ad/journey-ad/blob/master/crino.gif" width="100">
+
 ### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
 
-![](https://github-readme-stats.vercel.app/api?username=journey-ad&hide=[%22issues%22]&show_icons=true)
+#### Platform&Tools
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=Arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=Apple)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
+
+#### Console&Game
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=Nintendo%20Switch&logoColor=ffffff)
+[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=PlayStation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+<!-- waka-box end -->
+
+[powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+<!-- steam-box end -->
+
+[powered by steam-box](https://github.com/journey-ad/steam-box)
+
+</td>
+</tr>
+</table>
+
 <!--
 **journey-ad/journey-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
