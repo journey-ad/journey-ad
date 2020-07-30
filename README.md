@@ -45,6 +45,7 @@ Stylus     🕓 2h38m  █▉░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike: Global Offensive  🕘 2 hrs 20 mins
 🔫 Insurgency                        🕘 2 hrs 53 mins
 🔫 Fistful of Frags                  🕘 1 hrs 42 mins
+🎮 Juicy Realm                       🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
