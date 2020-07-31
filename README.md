@@ -1,6 +1,6 @@
 <img src="https://github.com/journey-ad/journey-ad/blob/master/crino.gif" width="100">
 
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
+### Hi there 👋 ![](https://kawaii-counter.glitch.me/count.svg)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
