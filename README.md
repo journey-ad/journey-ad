@@ -32,6 +32,9 @@
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
+
+[![](https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=journey-ad@github:%20~&fontSize=13)](https://chat.getloli.com/room/@journey-ad.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
+
 <table>
 <tr>
 <td valign="top" width="50%">
