@@ -60,7 +60,7 @@ Git Config 🕓 7m    ▋░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🔫 Counter-Strike: Global Offensive  🕘 2 hrs 15 mins
-🔫 Insurgency                        🕘 2 hrs 48 mins
+🔫 Insurgency                        🕘 1 hrs 56 mins
 🔫 Fistful of Frags                  🕘 0 hrs 35 mins
 🎮 Juicy Realm                       🕘 0 hrs 43 mins
 ```
