@@ -62,7 +62,7 @@ Git Config 🕓 7m    ▌░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 9 mins
 🔫 Insurgency                        🕘 0 hrs 7 mins
 🔫 Fistful of Frags                  🕘 0 hrs 35 mins
-🎮 Juicy Realm                       🕘 0 hrs 43 mins
+🎮 Juicy Realm                       🕘 0 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
