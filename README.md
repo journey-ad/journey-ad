@@ -1,4 +1,7 @@
-[![](https://count.getloli.com/get/@github.readme)](https://count.getloli.com/)
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+</p>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
