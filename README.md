@@ -69,6 +69,7 @@ Other       🕓 51m    ▍░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 32 hrs 12 mins
 🎮 Dyson Sphere Program              🕘 3 hrs 49 mins
+🎮 Townscaper                        🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
