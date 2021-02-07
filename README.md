@@ -31,6 +31,11 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
+#### iOS Shortcuts
+<sup>[这是什么动画？](https://www.icloud.com/shortcuts/dc33b11cdac5422b8fd0d567aeb54503)</sup>  
+<sup>[Pixiv 搜图](https://www.icloud.com/shortcuts/aa4ed8c94ef74bb3888ecb35501195c8)</sup>  
+<sup>[Pixiv 排行榜一键下载](https://www.icloud.com/shortcuts/e676c40f5022408e84c57fb7461a96c4)</sup>  
+
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
