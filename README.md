@@ -69,8 +69,6 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 8 hrs 35 mins
-🎮 Dyson Sphere Program              🕘 0 hrs 18 mins
-🎮 Townscaper                        🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
