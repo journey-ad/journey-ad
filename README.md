@@ -73,6 +73,7 @@ JSON       🕓 25m    ▎░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Rabi-Ribi                         🕘 14 hrs 54 mins
+🎮 LIMBO                             🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
