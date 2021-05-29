@@ -32,7 +32,7 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 #### iOS Shortcuts
-<sup>[这是什么动画？](https://www.icloud.com/shortcuts/6e511153652c472fb3d8010726b1355b)</sup>  
+<sup>[这是什么动画？](https://www.icloud.com/shortcuts/bb3f97473f394b40b27a7da3781cae04)</sup>  
 <sup>[Pixiv 搜图](https://www.icloud.com/shortcuts/d9053ba69f32488dbf192da145e497c1)</sup>  
 <sup>[Pixiv 排行榜一键下载](https://www.icloud.com/shortcuts/e676c40f5022408e84c57fb7461a96c4)</sup>  
 
