@@ -73,6 +73,7 @@ JSON       🕓 2h29m  ██░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 2 hrs 0 mins
+🎮 枝江往事                              🕘 1 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
