@@ -74,7 +74,7 @@ JSON       🕓 37m    ▌░░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🔞 Mirror                            🕘 2 hrs 57 mins
-🎮 Disco Elysium                     🕘 0 hrs 30 mins
+🎮 Disco Elysium                     🕘 2 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
