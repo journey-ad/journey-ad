@@ -45,7 +45,7 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
 
 ##### Genshin Impact
-[![](https://genshin-card.getloli.com/detail/4,5,27-30,32,35,37-39/160596100.png)](https://genshin-card.getloli.com)
+[![](https://genshin-card.getloli.com/detail/5-7,29,30,38,42,43-49,51-54,56,57,59/160596100.png)](https://genshin-card.getloli.com)
 
 ⬇️**点击下方图片留言**⬇️
 
