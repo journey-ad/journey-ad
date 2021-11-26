@@ -77,6 +77,7 @@ HTML       🕓 37m    ▌░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Moncage                           🕘 3 hrs 58 mins
 🎮 完美的一天 序章 / A Perfect Day Prologue 🕘 1 hrs 25 mins
+🎮 Gorogoa                           🕘 1 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
