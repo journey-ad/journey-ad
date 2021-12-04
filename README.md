@@ -77,8 +77,8 @@ JSON       🕓 1h8m   █░░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 49 mins
 🎮 Moncage                           🕘 3 hrs 58 mins
+🎮 Call of Juarez Gunslinger         🕘 2 hrs 31 mins
 🎮 Gorogoa                           🕘 2 hrs 19 mins
-🎮 Call of Juarez Gunslinger         🕘 2 hrs 1 mins
 🎮 完美的一天 序章 / A Perfect Day Prologue 🕘 1 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
