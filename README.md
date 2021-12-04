@@ -76,7 +76,7 @@ JSON       🕓 1h8m   █░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 49 mins
-🎮 Call of Juarez Gunslinger         🕘 4 hrs 34 mins
+🎮 Call of Juarez Gunslinger         🕘 5 hrs 12 mins
 🎮 Moncage                           🕘 3 hrs 58 mins
 🎮 Gorogoa                           🕘 2 hrs 19 mins
 🎮 完美的一天 序章 / A Perfect Day Prologue 🕘 1 hrs 25 mins
