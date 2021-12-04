@@ -77,8 +77,9 @@ JSON       🕓 1h8m   █░░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 49 mins
 🎮 Moncage                           🕘 3 hrs 58 mins
-🎮 Gorogoa                           🕘 1 hrs 32 mins
+🎮 Gorogoa                           🕘 2 hrs 19 mins
 🎮 完美的一天 序章 / A Perfect Day Prologue 🕘 1 hrs 25 mins
+🎮 Bonfire Peaks                     🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
