@@ -75,7 +75,7 @@ JSON       🕓 1h8m   █▏░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Cloud Gardens                     🕘 13 hrs 58 mins
+🎮 Cloud Gardens                     🕘 14 hrs 58 mins
 🎮 Call of Juarez Gunslinger         🕘 5 hrs 12 mins
 🎮 Moncage                           🕘 3 hrs 58 mins
 🎮 Gorogoa                           🕘 2 hrs 19 mins
