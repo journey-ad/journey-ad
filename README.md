@@ -77,9 +77,9 @@ JSON       🕓 1h9m  ██▏░░░░░░░░░░░░░░░░�
 ```text
 🎮 Cloud Gardens                     🕘 19 hrs 50 mins
 🎮 Call of Juarez Gunslinger         🕘 5 hrs 12 mins
-🎮 Moncage                           🕘 1 hrs 23 mins
 🎮 Gorogoa                           🕘 2 hrs 19 mins
 🎮 完美的一天 序章 / A Perfect Day Prologue 🕘 1 hrs 25 mins
+🎮 Cyberpunk 2077                    🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
