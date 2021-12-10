@@ -78,7 +78,7 @@ Other      🕓 17m   ▍░░░░░░░░░░░░░░░░░░�
 💻 Wallpaper Engine                  🕘 1 hrs 2 mins
 🎮 Cloud Gardens                     🕘 19 hrs 50 mins
 🎮 Call of Juarez Gunslinger         🕘 5 hrs 12 mins
-🎮 Cyberpunk 2077                    🕘 2 hrs 36 mins
+🎮 Cyberpunk 2077                    🕘 2 hrs 48 mins
 🎮 Gorogoa                           🕘 1 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
