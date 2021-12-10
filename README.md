@@ -79,7 +79,7 @@ Other      🕓 17m   ▍░░░░░░░░░░░░░░░░░░�
 🎮 Cloud Gardens                     🕘 19 hrs 50 mins
 🎮 Call of Juarez Gunslinger         🕘 5 hrs 12 mins
 🎮 Gorogoa                           🕘 1 hrs 17 mins
-🎮 Cyberpunk 2077                    🕘 1 hrs 6 mins
+🎮 Cyberpunk 2077                    🕘 1 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
