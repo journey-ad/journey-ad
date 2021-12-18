@@ -77,9 +77,9 @@ JSX        🕓 24m    ▎░░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 12 hrs 9 mins
 🎮 Cloud Gardens                     🕘 19 hrs 50 mins
-🎮 Call of Juarez Gunslinger         🕘 0 hrs 15 mins
 🎮 Cyberpunk 2077                    🕘 2 hrs 48 mins
 🎮 Bright Memory: Infinite           🕘 0 hrs 8 mins
+🎮 Bright Memory Infinite Ray Tracing Benchmark 🕘 0 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
