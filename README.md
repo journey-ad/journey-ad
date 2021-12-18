@@ -76,7 +76,7 @@ JSX        🕓 24m    ▎░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 12 hrs 9 mins
-🎮 Cloud Gardens                     🕘 16 hrs 52 mins
+🎮 Cloud Gardens                     🕘 15 hrs 48 mins
 🎮 Cyberpunk 2077                    🕘 2 hrs 48 mins
 🎮 Bright Memory: Infinite           🕘 0 hrs 8 mins
 🎮 Bright Memory Infinite Ray Tracing Benchmark 🕘 0 hrs 6 mins
