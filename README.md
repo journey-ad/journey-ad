@@ -79,7 +79,7 @@ JSX        🕓 24m    ▎░░░░░░░░░░░░░░░░░░
 🎮 Cloud Gardens                     🕘 19 hrs 50 mins
 🎮 Call of Juarez Gunslinger         🕘 5 hrs 12 mins
 🎮 Cyberpunk 2077                    🕘 2 hrs 48 mins
-🎮 Gorogoa                           🕘 1 hrs 17 mins
+🎮 Gorogoa                           🕘 1 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
