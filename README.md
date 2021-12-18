@@ -77,7 +77,7 @@ JSX        🕓 24m    ▎░░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 12 hrs 9 mins
 🎮 Cloud Gardens                     🕘 19 hrs 50 mins
-🎮 Call of Juarez Gunslinger         🕘 5 hrs 6 mins
+🎮 Call of Juarez Gunslinger         🕘 4 hrs 16 mins
 🎮 Cyberpunk 2077                    🕘 2 hrs 48 mins
 🎮 Bright Memory: Infinite           🕘 0 hrs 8 mins
 ```
