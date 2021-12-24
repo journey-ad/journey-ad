@@ -76,7 +76,7 @@ JSON       🕓 17m    ▏░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 14 hrs 9 mins
-🎮 Cyberpunk 2077                    🕘 1 hrs 11 mins
+🎮 Cyberpunk 2077                    🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
