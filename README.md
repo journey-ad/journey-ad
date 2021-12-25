@@ -75,10 +75,10 @@ JSON       🕓 17m    ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 9 hrs 19 mins
+💻 Wallpaper Engine                  🕘 8 hrs 26 mins
 🎮 Tangle Tower                      🕘 3 hrs 47 mins
+🎮 Red Dead Redemption 2             🕘 2 hrs 44 mins
 🎮 Dorfromantik                      🕘 1 hrs 21 mins
-🎮 Red Dead Redemption 2             🕘 2 hrs 10 mins
 🎮 klocki                            🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
