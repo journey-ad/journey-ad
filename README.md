@@ -79,7 +79,7 @@ Other      🕓 1h11m  █░░░░░░░░░░░░░░░░░░
 🎮 Red Dead Redemption 2             🕘 3 hrs 58 mins
 🎮 Tangle Tower                      🕘 3 hrs 47 mins
 🎮 Dorfromantik                      🕘 1 hrs 21 mins
-🎮 Soul Fantasy                      🕘 0 hrs 30 mins
+🎮 Soul Fantasy                      🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
