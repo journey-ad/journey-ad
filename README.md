@@ -76,7 +76,7 @@ Other      🕓 1h1m   ▉░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 2 hrs 12 mins
-🎮 Red Dead Redemption 2             🕘 6 hrs 39 mins
+🎮 Red Dead Redemption 2             🕘 6 hrs 40 mins
 🎮 Tangle Tower                      🕘 3 hrs 47 mins
 🎮 Soul Fantasy                      🕘 2 hrs 10 mins
 🎮 Dorfromantik                      🕘 1 hrs 21 mins
