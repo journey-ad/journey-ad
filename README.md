@@ -77,9 +77,8 @@ LESS       🕓 25m    ▎░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Red Dead Redemption 2             🕘 32 hrs 45 mins
 🔞 Mirror                            🕘 0 hrs 32 mins
-🎮 Tangle Tower                      🕘 0 hrs 3 mins
 🎮 Soul Fantasy                      🕘 2 hrs 10 mins
-🎮 Dorfromantik                      🕘 1 hrs 21 mins
+🎮 Dorfromantik                      🕘 0 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
