@@ -78,7 +78,7 @@ LESS       🕓 24m   ▌░░░░░░░░░░░░░░░░░░�
 💻 Wallpaper Engine                  🕘 0 hrs 24 mins
 🎮 Red Dead Redemption 2             🕘 31 hrs 14 mins
 🔞 Mirror                            🕘 0 hrs 32 mins
-🎮 Soul Fantasy                      🕘 1 hrs 37 mins
+🎮 Soul Fantasy                      🕘 0 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
