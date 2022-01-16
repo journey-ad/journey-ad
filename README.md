@@ -76,7 +76,7 @@ YAML       🕓 12m    ▍░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 24 mins
-🎮 Red Dead Redemption 2             🕘 7 hrs 33 mins
+🎮 Red Dead Redemption 2             🕘 6 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
