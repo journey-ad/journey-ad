@@ -75,7 +75,7 @@ JSON       🕓 46m   █▍░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Red Dead Redemption 2             🕘 12 hrs 23 mins
+🎮 Red Dead Redemption 2             🕘 12 hrs 16 mins
 🎮 Mirror 2: Project X               🕘 3 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
