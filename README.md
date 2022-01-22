@@ -77,6 +77,7 @@ JSON       🕓 46m   █▍░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 24 mins
 🎮 Red Dead Redemption 2             🕘 2 hrs 28 mins
+🎮 Mirror 2: Project X               🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
