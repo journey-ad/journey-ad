@@ -76,7 +76,7 @@ JSON       🕓 12m   ▉░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 2 mins
-🎮 Red Dead Redemption 2             🕘 21 hrs 35 mins
+🎮 Red Dead Redemption 2             🕘 20 hrs 42 mins
 🎮 Mirror 2: Project X               🕘 3 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
