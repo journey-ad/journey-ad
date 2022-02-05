@@ -73,7 +73,7 @@ Still Gathering Statistics...
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 2 mins
 🎮 Red Dead Redemption 2             🕘 9 hrs 50 mins
-🎮 Mirror 2: Project X               🕘 1 hrs 39 mins
+🎮 Mirror 2: Project X               🕘 0 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
