@@ -78,6 +78,7 @@ SCSS       🕓 53m    ▋░░░░░░░░░░░░░░░░░░
 💻 Wallpaper Engine                  🕘 0 hrs 43 mins
 🎮 Red Dead Redemption 2             🕘 31 hrs 26 mins
 🎮 Return of the Obra Dinn           🕘 4 hrs 11 mins
+🎮 Hell Girls                        🕘 1 hrs 0 mins
 🎮 Mafia: Definitive Edition         🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
