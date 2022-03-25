@@ -76,7 +76,7 @@ Other      🕓 38m   ▊░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 38 mins
-🎮 Red Dead Redemption 2             🕘 17 hrs 40 mins
+🎮 Red Dead Redemption 2             🕘 16 hrs 50 mins
 🎮 Return of the Obra Dinn           🕘 4 hrs 11 mins
 🎮 Hell Girls                        🕘 1 hrs 43 mins
 🎮 Mafia: Definitive Edition         🕘 0 hrs 43 mins
