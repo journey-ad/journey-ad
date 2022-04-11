@@ -75,8 +75,8 @@ HTML       🕓 5m    ▎░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
+🎮 Sniper Ghost Warrior Contracts 2  🕘 1 hrs 30 mins
 🎮 Down in Bermuda                   🕘 0 hrs 35 mins
-🎮 Sniper Ghost Warrior Contracts 2  🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
