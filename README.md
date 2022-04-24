@@ -75,7 +75,7 @@ Markdown   🕓 33m    ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Live2DViewerEX                    🕘 9 hrs 17 mins
+🎮 Live2DViewerEX                    🕘 9 hrs 34 mins
 🎮 Warpips                           🕘 3 hrs 6 mins
 🎮 Sniper Ghost Warrior Contracts 2  🕘 2 hrs 14 mins
 🎮 Down in Bermuda                   🕘 0 hrs 35 mins
