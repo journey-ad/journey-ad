@@ -78,6 +78,7 @@ Markdown   🕓 33m    ▋░░░░░░░░░░░░░░░░░░
 🎮 Warpips                           🕘 3 hrs 6 mins
 🎮 Sniper Ghost Warrior Contracts 2  🕘 2 hrs 14 mins
 🎮 Down in Bermuda                   🕘 0 hrs 35 mins
+🎮 Live2DViewerEX                    🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
