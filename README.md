@@ -77,7 +77,6 @@ Go         🕓 1h28m  █▍░░░░░░░░░░░░░░░░░
 ```text
 🎮 Live2DViewerEX                    🕘 9 hrs 34 mins
 🎮 Warpips                           🕘 3 hrs 6 mins
-🎮 Sniper Ghost Warrior Contracts 2  🕘 0 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
