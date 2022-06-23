@@ -75,7 +75,7 @@ Go         🕓 1h8m  ██▎░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 15 hrs 46 mins
+🎮 SteamVR                           🕘 15 hrs 51 mins
 🎮 Beat Saber                        🕘 1 hrs 37 mins
 🎮 Spice&Wolf VR2                    🕘 0 hrs 40 mins
 🎮 VRChat                            🕘 0 hrs 40 mins
