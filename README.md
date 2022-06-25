@@ -75,9 +75,9 @@ Go         🕓 1h8m  ██▊░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 17 hrs 18 mins
+🎮 SteamVR                           🕘 19 hrs 55 mins
+🎮 Half-Life: Alyx                   🕘 3 hrs 40 mins
 🎮 Beat Saber                        🕘 1 hrs 37 mins
-🎮 Half-Life: Alyx                   🕘 1 hrs 8 mins
 🎮 Spice&Wolf VR2                    🕘 0 hrs 40 mins
 🎮 VRChat                            🕘 0 hrs 40 mins
 ```
