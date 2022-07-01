@@ -79,7 +79,7 @@ HTML       🕓 16m   ▍░░░░░░░░░░░░░░░░░░�
 🎮 Half-Life: Alyx                   🕘 4 hrs 21 mins
 🎮 Beat Saber                        🕘 1 hrs 37 mins
 🎮 Ragnarock                         🕘 1 hrs 36 mins
-🎮 VTOL VR                           🕘 1 hrs 11 mins
+🎮 FAR: Lone Sails                   🕘 1 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
