@@ -75,11 +75,11 @@ Other      🕓 27m   ▊░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 42 hrs 56 mins
+🎮 SteamVR                           🕘 42 hrs 37 mins
 🎮 Half-Life: Alyx                   🕘 4 hrs 21 mins
 🎮 FAR: Lone Sails                   🕘 2 hrs 41 mins
 🎮 Risk of Rain 2                    🕘 2 hrs 0 mins
-🎮 Ragnarock                         🕘 1 hrs 36 mins
+🎮 SpaceEngine                       🕘 1 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
