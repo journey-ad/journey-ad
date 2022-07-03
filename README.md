@@ -78,8 +78,8 @@ Other      🕓 27m   ▊░░░░░░░░░░░░░░░░░░�
 🎮 SteamVR                           🕘 37 hrs 18 mins
 🎮 Half-Life: Alyx                   🕘 4 hrs 21 mins
 🎮 FAR: Changing Tides               🕘 3 hrs 30 mins
+🎮 F.I.S.T.: Forged In Shadow Torch  🕘 3 hrs 19 mins
 🎮 FAR: Lone Sails                   🕘 2 hrs 41 mins
-🎮 F.I.S.T.: Forged In Shadow Torch  🕘 2 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
