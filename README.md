@@ -74,11 +74,11 @@ Other      🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 34 hrs 38 mins
-🎮 Half-Life: Alyx                   🕘 3 hrs 13 mins
+🎮 SteamVR                           🕘 32 hrs 0 mins
 🎮 F.I.S.T.: Forged In Shadow Torch  🕘 3 hrs 55 mins
 🎮 FAR: Changing Tides               🕘 3 hrs 30 mins
 🎮 FAR: Lone Sails                   🕘 2 hrs 41 mins
+🎮 Risk of Rain 2                    🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
