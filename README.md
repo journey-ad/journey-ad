@@ -78,7 +78,7 @@ JSON       🕓 37m    ▋░░░░░░░░░░░░░░░░░░
 🎮 SteamVR                           🕘 2 hrs 30 mins
 🎮 F.I.S.T.: Forged In Shadow Torch  🕘 3 hrs 55 mins
 🎮 FAR: Changing Tides               🕘 3 hrs 30 mins
-🎮 Risk of Rain 2                    🕘 1 hrs 41 mins
+🎮 Risk of Rain 2                    🕘 0 hrs 49 mins
 🎮 Bright Memory: Infinite           🕘 1 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
