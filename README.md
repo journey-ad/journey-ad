@@ -78,7 +78,7 @@ JSON       🕓 37m    ▋░░░░░░░░░░░░░░░░░░
 🎮 SteamVR                           🕘 2 hrs 30 mins
 🎮 F.I.S.T.: Forged In Shadow Torch  🕘 3 hrs 55 mins
 🎮 FAR: Changing Tides               🕘 3 hrs 30 mins
-🎮 FAR: Lone Sails                   🕘 2 hrs 41 mins
+🎮 FAR: Lone Sails                   🕘 2 hrs 26 mins
 🎮 Risk of Rain 2                    🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
