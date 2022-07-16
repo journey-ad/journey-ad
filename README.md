@@ -77,7 +77,7 @@ JSON       🕓 37m    ▋░░░░░░░░░░░░░░░░░░
 ```text
 🎮 F.I.S.T.: Forged In Shadow Torch  🕘 3 hrs 55 mins
 🎮 Contrast                          🕘 0 hrs 19 mins
-🎮 FAR: Changing Tides               🕘 2 hrs 5 mins
+🎮 FAR: Changing Tides               🕘 0 hrs 57 mins
 🎮 Bright Memory: Infinite           🕘 1 hrs 15 mins
 🎮 A Plague Tale: Innocence          🕘 0 hrs 22 mins
 ```
