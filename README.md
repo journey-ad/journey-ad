@@ -75,11 +75,11 @@ JSON       🕓 37m    ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 1 hrs 37 mins
+🎮 SteamVR                           🕘 0 hrs 51 mins
 🎮 F.I.S.T.: Forged In Shadow Torch  🕘 3 hrs 55 mins
 🎮 FAR: Changing Tides               🕘 3 hrs 30 mins
-🎮 SpaceEngine                       🕘 0 hrs 43 mins
 🎮 Bright Memory: Infinite           🕘 1 hrs 15 mins
+🎮 A Plague Tale: Innocence          🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
