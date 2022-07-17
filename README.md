@@ -78,7 +78,6 @@ JSON       🕓 37m    ▋░░░░░░░░░░░░░░░░░░
 🎮 F.I.S.T.: Forged In Shadow Torch  🕘 2 hrs 1 mins
 🎮 Contrast                          🕘 0 hrs 19 mins
 🎮 Bright Memory: Infinite           🕘 1 hrs 15 mins
-🎮 A Plague Tale: Innocence          🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
