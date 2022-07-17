@@ -75,7 +75,7 @@ JSON       🕓 37m    ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 F.I.S.T.: Forged In Shadow Torch  🕘 2 hrs 1 mins
+🎮 F.I.S.T.: Forged In Shadow Torch  🕘 1 hrs 8 mins
 🎮 Contrast                          🕘 0 hrs 19 mins
 🎮 Bright Memory: Infinite           🕘 1 hrs 15 mins
 ```
