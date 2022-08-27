@@ -75,7 +75,6 @@ Other      🕓 13m   ▍░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Risk of Rain 2                    🕘 0 hrs 19 mins
 🎮 A.V.A Global                      🕘 1 hrs 6 mins
 🎮 Titanfall® 2                      🕘 0 hrs 1 mins
 ```
