@@ -75,9 +75,9 @@ HTML       🕓 24m   ▋░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 1 hrs 55 mins
+🎮 SteamVR                           🕘 2 hrs 25 mins
+🎮 Desktop+                          🕘 2 hrs 7 mins
 🎮 Ragnarock                         🕘 0 hrs 12 mins
-🎮 Desktop+                          🕘 1 hrs 36 mins
 🎮 DeoVR Video Player                🕘 0 hrs 8 mins
 🎮 Aircar                            🕘 0 hrs 6 mins
 ```
