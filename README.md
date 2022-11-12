@@ -76,7 +76,7 @@ JSON        🕓 40m    ▌░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 SteamVR                           🕘 2 hrs 48 mins
-🎮 Desktop+                          🕘 2 hrs 13 mins
+🎮 Desktop+                          🕘 2 hrs 5 mins
 🎮 Ragnarock                         🕘 0 hrs 12 mins
 🎮 Aircar                            🕘 0 hrs 6 mins
 🎮 Bigscreen Beta                    🕘 0 hrs 5 mins
