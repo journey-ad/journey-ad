@@ -75,11 +75,8 @@ JSON        🕓 40m    ▌░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 2 hrs 14 mins
-🎮 Desktop+                          🕘 2 hrs 5 mins
-🎮 Ragnarock                         🕘 0 hrs 12 mins
-🎮 Aircar                            🕘 0 hrs 6 mins
-🎮 Bigscreen Beta                    🕘 0 hrs 5 mins
+🎮 SteamVR                           🕘 1 hrs 6 mins
+🎮 Desktop+                          🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
