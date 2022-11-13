@@ -76,9 +76,9 @@ JSON        🕓 40m    ▌░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Tangle Tower                      🕘 0 hrs 59 mins
+🎮 Trine 4: The Nightmare Prince     🕘 2 hrs 18 mins
 🎮 Dorfromantik                      🕘 0 hrs 54 mins
 🎮 Bunny eShop                       🕘 1 hrs 43 mins
-🎮 Trine 4: The Nightmare Prince     🕘 2 hrs 5 mins
 🎮 Capcom Arcade Stadium             🕘 0 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
