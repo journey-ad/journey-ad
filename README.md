@@ -75,7 +75,11 @@ JSON        🕓 40m    ▌░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Tangle Tower                      🕘 0 hrs 18 mins
+🎮 Tangle Tower                      🕘 0 hrs 59 mins
+🎮 Cyberpunk 2077                    🕘 0 hrs 30 mins
+🎮 Trine 4: The Nightmare Prince     🕘 0 hrs 22 mins
+🎮 Capcom Arcade Stadium             🕘 0 hrs 22 mins
+🎮 Bunny eShop                       🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
