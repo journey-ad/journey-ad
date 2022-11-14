@@ -76,8 +76,8 @@ JSON       🕓 40m    ▋░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Bunny eShop                       🕘 3 hrs 54 mins
+🎮 KRUM - Edge Of Darkness           🕘 3 hrs 17 mins
 🎮 Trine 4: The Nightmare Prince     🕘 2 hrs 19 mins
-🎮 KRUM - Edge Of Darkness           🕘 2 hrs 16 mins
 🎮 Sid Meier's Civilization VI       🕘 2 hrs 12 mins
 🎮 Ori and the Will of the Wisps     🕘 2 hrs 12 mins
 ```
