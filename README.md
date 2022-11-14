@@ -78,7 +78,7 @@ JSON       🕓 40m    ▋░░░░░░░░░░░░░░░░░░
 🎮 Tangle Tower                      🕘 0 hrs 59 mins
 🎮 Trine 4: The Nightmare Prince     🕘 2 hrs 19 mins
 🎮 Dorfromantik                      🕘 0 hrs 54 mins
-🎮 Bunny eShop                       🕘 1 hrs 44 mins
+🎮 Bunny eShop                       🕘 2 hrs 14 mins
 🎮 Capcom Arcade Stadium             🕘 0 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
