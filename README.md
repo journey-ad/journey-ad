@@ -75,11 +75,11 @@ JSON       🕓 40m    ▋░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Tangle Tower                      🕘 0 hrs 59 mins
+🎮 Bunny eShop                       🕘 3 hrs 4 mins
 🎮 Trine 4: The Nightmare Prince     🕘 2 hrs 19 mins
-🎮 Dorfromantik                      🕘 0 hrs 54 mins
-🎮 Bunny eShop                       🕘 2 hrs 14 mins
-🎮 Capcom Arcade Stadium             🕘 0 hrs 54 mins
+🎮 Sid Meier's Civilization VI       🕘 1 hrs 41 mins
+🎮 Ori and the Will of the Wisps     🕘 1 hrs 41 mins
+🎮 Muse Dash                         🕘 1 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
