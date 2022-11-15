@@ -75,7 +75,7 @@ HTML       🕓 34m    ▌░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Maitetsu:Pure Station             🕘 6 hrs 35 mins
+🎮 Maitetsu:Pure Station             🕘 7 hrs 35 mins
 🎮 Sid Meier's Civilization VI       🕘 5 hrs 19 mins
 🎮 Mafia III: Definitive Edition     🕘 4 hrs 10 mins
 🎮 Bunny eShop                       🕘 3 hrs 54 mins
