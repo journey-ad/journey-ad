@@ -77,7 +77,7 @@ HTML       🕓 34m    ▌░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Mafia III: Definitive Edition     🕘 4 hrs 10 mins
 🎮 Bunny eShop                       🕘 3 hrs 54 mins
-🎮 Sid Meier's Civilization VI       🕘 3 hrs 18 mins
+🎮 Sid Meier's Civilization VI       🕘 3 hrs 48 mins
 🎮 Ori and the Will of the Wisps     🕘 3 hrs 18 mins
 🎮 Muse Dash                         🕘 3 hrs 18 mins
 ```
