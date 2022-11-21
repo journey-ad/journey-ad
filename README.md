@@ -78,8 +78,8 @@ Stylus     🕓 32m    ▍░░░░░░░░░░░░░░░░░░
 🎮 Maitetsu:Last Run!!               🕘 14 hrs 56 mins
 🎮 Maitetsu:Pure Station             🕘 7 hrs 35 mins
 🎮 Sid Meier's Civilization VI       🕘 5 hrs 19 mins
+🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 4 hrs 27 mins
 🎮 Mafia III: Definitive Edition     🕘 4 hrs 10 mins
-🎮 Bunny eShop                       🕘 3 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
