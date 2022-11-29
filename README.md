@@ -78,7 +78,7 @@ Markdown   🕓 11m    ▏░░░░░░░░░░░░░░░░░░
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 SteamVR                           🕘 0 hrs 33 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 47 hrs 34 mins
-🎮 Maitetsu:Last Run!!               🕘 11 hrs 20 mins
+🎮 Maitetsu:Last Run!!               🕘 10 hrs 26 mins
 🎮 Desktop+                          🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
