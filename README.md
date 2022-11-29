@@ -75,11 +75,11 @@ Markdown   🕓 11m    ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 SteamVR                           🕘 0 hrs 33 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 47 hrs 34 mins
-🎮 Maitetsu:Last Run!!               🕘 10 hrs 26 mins
+🎮 Maitetsu:Last Run!!               🕘 9 hrs 1 mins
 🎮 Desktop+                          🕘 0 hrs 32 mins
+🎮 Risk of Rain 2                    🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
