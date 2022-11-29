@@ -79,7 +79,7 @@ Markdown   🕓 11m    ▏░░░░░░░░░░░░░░░░░░
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 47 hrs 34 mins
 🎮 Maitetsu:Last Run!!               🕘 11 hrs 37 mins
 🎮 Maitetsu:Pure Station             🕘 4 hrs 17 mins
-🎮 Sid Meier's Civilization VI       🕘 1 hrs 23 mins
+🎮 Desktop+                          🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
