@@ -75,11 +75,11 @@ HTML       🕓 8m     ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
+🎮 SteamVR                           🕘 0 hrs 33 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 47 hrs 34 mins
-🎮 Maitetsu:Last Run!!               🕘 12 hrs 35 mins
-🎮 Maitetsu:Pure Station             🕘 5 hrs 14 mins
-🎮 Sid Meier's Civilization VI       🕘 2 hrs 58 mins
-🎮 Mafia III: Definitive Edition     🕘 1 hrs 50 mins
+🎮 Maitetsu:Last Run!!               🕘 11 hrs 37 mins
+🎮 Maitetsu:Pure Station             🕘 4 hrs 17 mins
+🎮 Sid Meier's Civilization VI       🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
