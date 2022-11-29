@@ -78,7 +78,7 @@ Markdown   🕓 11m    ▏░░░░░░░░░░░░░░░░░░
 🎮 SteamVR                           🕘 0 hrs 33 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 47 hrs 34 mins
 🎮 Maitetsu:Last Run!!               🕘 11 hrs 37 mins
-🎮 Maitetsu:Pure Station             🕘 4 hrs 17 mins
+🎮 Maitetsu:Pure Station             🕘 3 hrs 40 mins
 🎮 Desktop+                          🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
