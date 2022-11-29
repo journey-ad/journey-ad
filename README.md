@@ -77,7 +77,7 @@ Markdown   🕓 11m    ▏░░░░░░░░░░░░░░░░░░
 ```text
 🎮 SteamVR                           🕘 0 hrs 33 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 47 hrs 34 mins
-🎮 Maitetsu:Last Run!!               🕘 5 hrs 12 mins
+🎮 Maitetsu:Last Run!!               🕘 4 hrs 25 mins
 🎮 Desktop+                          🕘 0 hrs 32 mins
 🎮 Risk of Rain 2                    🕘 0 hrs 46 mins
 ```
