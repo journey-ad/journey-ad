@@ -75,9 +75,9 @@ Markdown   🕓 11m    ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
+🔫 Counter-Strike: Global Offensive  🕘 0 hrs 18 mins
 🎮 SteamVR                           🕘 0 hrs 33 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 47 hrs 34 mins
-🎮 Maitetsu:Last Run!!               🕘 0 hrs 26 mins
 🎮 Desktop+                          🕘 0 hrs 32 mins
 🎮 Risk of Rain 2                    🕘 0 hrs 46 mins
 ```
