@@ -75,11 +75,11 @@ HTML       🕓 26m   ▋░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike: Global Offensive  🕘 0 hrs 18 mins
-🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 59 hrs 32 mins
+🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 59 hrs 43 mins
 🎮 SteamVR                           🕘 0 hrs 33 mins
 🎮 Desktop+                          🕘 0 hrs 32 mins
 🎮 Risk of Rain 2                    🕘 0 hrs 46 mins
+🎮 Battlefield™ 2042                 🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
