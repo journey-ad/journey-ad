@@ -78,8 +78,8 @@ HTML       🕓 20m   ▋░░░░░░░░░░░░░░░░░░�
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 56 hrs 3 mins
 🎮 SteamVR                           🕘 2 hrs 0 mins
 🎮 Desktop+                          🕘 1 hrs 34 mins
+🎮 ACE COMBAT™ 7: SKIES UNKNOWN      🕘 3 hrs 4 mins
 🎮 VTOL VR                           🕘 0 hrs 57 mins
-🎮 ACE COMBAT™ 7: SKIES UNKNOWN      🕘 1 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
