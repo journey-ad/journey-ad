@@ -78,7 +78,7 @@ EJS        🕓 24m   █▊░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 36 hrs 57 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 1 hrs 16 mins
-🎮 ACE COMBAT™ 7: SKIES UNKNOWN      🕘 3 hrs 4 mins
+🎮 ACE COMBAT™ 7: SKIES UNKNOWN      🕘 2 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
