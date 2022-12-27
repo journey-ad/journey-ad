@@ -80,6 +80,7 @@ HTML         🕓 4m    ▎░░░░░░░░░░░░░░░░░�
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 7 hrs 17 mins
 🎮 Battlefield™ V                    🕘 3 hrs 18 mins
 🎮 Battlefield 1 ™                   🕘 1 hrs 55 mins
+🎮 Patrick's Parabox                 🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
