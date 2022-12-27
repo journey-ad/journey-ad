@@ -78,7 +78,7 @@ HTML         🕓 4m    ▎░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 36 hrs 57 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 8 hrs 12 mins
-🎮 Battlefield™ V                    🕘 3 hrs 55 mins
+🎮 Battlefield™ V                    🕘 4 hrs 26 mins
 🎮 Battlefield 1 ™                   🕘 1 hrs 55 mins
 🎮 Patrick's Parabox                 🕘 0 hrs 19 mins
 ```
