@@ -78,7 +78,7 @@ XML          🕓 6m    ▎░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 36 hrs 57 mins
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 0 mins
-🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 9 hrs 15 mins
+🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 10 hrs 13 mins
 🎮 Battlefield™ V                    🕘 5 hrs 23 mins
 🎮 Battlefield 1 ™                   🕘 1 hrs 55 mins
 ```
