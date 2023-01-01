@@ -76,7 +76,7 @@ Git Config   🕓 8m    ▎░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 8 hrs 53 mins
+💻 Wallpaper Engine                  🕘 7 hrs 48 mins
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 0 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 8 hrs 58 mins
 🎮 Battlefield™ V                    🕘 6 hrs 53 mins
