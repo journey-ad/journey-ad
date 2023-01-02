@@ -80,7 +80,7 @@ Git Config   🕓 8m    ▎░░░░░░░░░░░░░░░░░�
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 9 hrs 40 mins
 🎮 Battlefield™ V                    🕘 6 hrs 53 mins
 🎮 Battlefield 1 ™                   🕘 1 hrs 55 mins
-🎮 Patrick's Parabox                 🕘 0 hrs 19 mins
+🎮 The Elder Scrolls Online          🕘 0 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
