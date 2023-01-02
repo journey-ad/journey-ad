@@ -79,8 +79,8 @@ Git Config   🕓 8m    ▎░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 0 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 9 hrs 40 mins
 🎮 Battlefield™ V                    🕘 6 hrs 53 mins
+🎮 The Elder Scrolls Online          🕘 2 hrs 27 mins
 🎮 Battlefield 1 ™                   🕘 1 hrs 55 mins
-🎮 The Elder Scrolls Online          🕘 1 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
