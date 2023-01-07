@@ -78,8 +78,8 @@ JSON       🕓 1h18m █▉░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 0 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 8 hrs 9 mins
+🎮 The Elder Scrolls Online          🕘 7 hrs 13 mins
 🎮 Battlefield™ V                    🕘 6 hrs 53 mins
-🎮 The Elder Scrolls Online          🕘 6 hrs 28 mins
 🎮 Battlefield 1 ™                   🕘 1 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
