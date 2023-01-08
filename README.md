@@ -79,7 +79,7 @@ JSON       🕓 1h18m ██░░░░░░░░░░░░░░░░░�
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 10 hrs 55 mins
 🎮 VTube Studio                      🕘 12 hrs 48 mins
 🎮 The Elder Scrolls Online          🕘 7 hrs 13 mins
-🎮 Battlefield™ V                    🕘 5 hrs 47 mins
+🎮 Battlefield™ V                    🕘 4 hrs 55 mins
 🎮 雀魂麻将(MahjongSoul)                 🕘 1 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
