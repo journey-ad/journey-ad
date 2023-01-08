@@ -76,7 +76,7 @@ JSON       🕓 1h18m ██░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 10 hrs 55 mins
+🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 10 hrs 37 mins
 🎮 VTube Studio                      🕘 12 hrs 48 mins
 🎮 The Elder Scrolls Online          🕘 7 hrs 13 mins
 🎮 Battlefield™ V                    🕘 6 hrs 53 mins
