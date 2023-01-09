@@ -80,7 +80,7 @@ JSON       🕓 1h18m ██░░░░░░░░░░░░░░░░░�
 🎮 VTube Studio                      🕘 12 hrs 48 mins
 🎮 The Elder Scrolls Online          🕘 7 hrs 13 mins
 🎮 Battlefield™ V                    🕘 3 hrs 34 mins
-🎮 雀魂麻将(MahjongSoul)                 🕘 1 hrs 49 mins
+🎮 雀魂麻将(MahjongSoul)                 🕘 2 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
