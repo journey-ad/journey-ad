@@ -80,7 +80,7 @@ YAML       🕓 42m   █▏░░░░░░░░░░░░░░░░░�
 🎮 VTube Studio                      🕘 12 hrs 48 mins
 🎮 The Elder Scrolls Online          🕘 7 hrs 13 mins
 🎮 Battlefield™ V                    🕘 1 hrs 30 mins
-🎮 雀魂麻将(MahjongSoul)                 🕘 4 hrs 7 mins
+🎮 雀魂麻将(MahjongSoul)                 🕘 4 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
