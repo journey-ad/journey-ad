@@ -77,7 +77,7 @@ JSON        🕓 28m   █░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 10 hrs 41 mins
-🎮 雀魂麻将(MahjongSoul)                 🕘 19 hrs 7 mins
+🎮 雀魂麻将(MahjongSoul)                 🕘 19 hrs 24 mins
 🎮 VTube Studio                      🕘 12 hrs 48 mins
 🎮 The Elder Scrolls Online          🕘 5 hrs 55 mins
 ```
