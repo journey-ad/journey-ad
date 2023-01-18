@@ -78,7 +78,7 @@ Image (png) 🕓 28m   █▍░░░░░░░░░░░░░░░░░
 ```text
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 13 hrs 53 mins
 🎮 雀魂麻将(MahjongSoul)                 🕘 21 hrs 21 mins
-🎮 VTube Studio                      🕘 13 hrs 27 mins
+🎮 VTube Studio                      🕘 13 hrs 33 mins
 🎮 The Elder Scrolls Online          🕘 5 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
