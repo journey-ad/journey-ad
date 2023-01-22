@@ -76,8 +76,8 @@ JSON        🕓 26m   █▌░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 8 hrs 44 mins
-🎮 雀魂麻将(MahjongSoul)                 🕘 23 hrs 39 mins
+🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 8 hrs 17 mins
+🎮 雀魂麻将(MahjongSoul)                 🕘 23 hrs 11 mins
 🎮 VTube Studio                      🕘 0 hrs 45 mins
 🎮 The Elder Scrolls Online          🕘 4 hrs 39 mins
 ```
