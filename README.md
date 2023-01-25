@@ -77,7 +77,7 @@ HTML       🕓 9m  █▉░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 3 hrs 40 mins
-🎮 雀魂麻将(MahjongSoul)                 🕘 19 hrs 31 mins
+🎮 雀魂麻将(MahjongSoul)                 🕘 19 hrs 29 mins
 🎮 VTube Studio                      🕘 0 hrs 45 mins
 🎮 The Elder Scrolls Online          🕘 4 hrs 39 mins
 ```
