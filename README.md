@@ -75,7 +75,7 @@ Still Gathering Statistics...
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 3 hrs 40 mins
 🎮 雀魂麻将(MahjongSoul)                 🕘 14 hrs 23 mins
 🎮 VTube Studio                      🕘 0 hrs 45 mins
-🎮 The Elder Scrolls Online          🕘 3 hrs 0 mins
+🎮 The Elder Scrolls Online          🕘 1 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
