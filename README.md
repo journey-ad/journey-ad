@@ -72,7 +72,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 5 hrs 20 mins
+💻 Wallpaper Engine                  🕘 5 hrs 50 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 3 hrs 40 mins
 🎮 雀魂麻将(MahjongSoul)                 🕘 5 hrs 4 mins
 🎮 VTube Studio                      🕘 0 hrs 45 mins
