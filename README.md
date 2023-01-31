@@ -75,9 +75,9 @@ Vue.js     🕓 4m    ▋░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 20 hrs 4 mins
+💻 Wallpaper Engine                  🕘 21 hrs 15 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 3 hrs 40 mins
-🎮 雀魂麻将(MahjongSoul)                 🕘 3 hrs 23 mins
+🎮 雀魂麻将(MahjongSoul)                 🕘 3 hrs 12 mins
 🎮 VTube Studio                      🕘 0 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
