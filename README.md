@@ -78,7 +78,7 @@ Other      🕓 21m   █▎░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 24 hrs 14 mins
 🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 0 hrs 28 mins
-🎮 雀魂麻将(MahjongSoul)                 🕘 2 hrs 18 mins
+🎮 雀魂麻将(MahjongSoul)                 🕘 2 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
