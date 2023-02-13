@@ -76,9 +76,9 @@ JSON       🕓 12m   ▎░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 24 hrs 0 mins
-🎮 SteamVR                           🕘 2 hrs 5 mins
-🎮 Desktop+                          🕘 1 hrs 41 mins
+💻 Wallpaper Engine                  🕘 22 hrs 52 mins
+🎮 SteamVR                           🕘 2 hrs 50 mins
+🎮 Desktop+                          🕘 2 hrs 22 mins
 🎮 Beat Saber                        🕘 0 hrs 22 mins
 🎮 SUPERHOT VR                       🕘 0 hrs 4 mins
 ```
