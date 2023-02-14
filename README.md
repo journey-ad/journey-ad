@@ -76,7 +76,7 @@ SCSS       🕓 14m   ▍░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 10 hrs 2 mins
+💻 Wallpaper Engine                  🕘 8 hrs 56 mins
 🎮 SteamVR                           🕘 2 hrs 50 mins
 🎮 Desktop+                          🕘 2 hrs 22 mins
 🎮 Beat Saber                        🕘 0 hrs 22 mins
