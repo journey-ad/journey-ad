@@ -79,7 +79,7 @@ LESS       🕓 38m   █▎░░░░░░░░░░░░░░░░░�
 🎮 SteamVR                           🕘 2 hrs 50 mins
 🎮 The Elder Scrolls Online          🕘 2 hrs 26 mins
 🎮 Desktop+                          🕘 2 hrs 22 mins
-🎮 Cyberpunk 2077                    🕘 0 hrs 33 mins
+🎮 Cyberpunk 2077                    🕘 1 hrs 18 mins
 🎮 Beat Saber                        🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
