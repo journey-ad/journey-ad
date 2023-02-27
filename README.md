@@ -76,9 +76,9 @@ YAML       🕓 32m    ▌░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 SteamVR                           🕘 1 hrs 38 mins
+🎮 SteamVR                           🕘 0 hrs 36 mins
 🎮 The Elder Scrolls Online          🕘 2 hrs 26 mins
-🎮 Desktop+                          🕘 1 hrs 38 mins
+🎮 Desktop+                          🕘 0 hrs 36 mins
 🎮 Cyberpunk 2077                    🕘 1 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
