@@ -76,7 +76,7 @@ Markdown   🕓 1h7m   ▊░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 The Elder Scrolls Online          🕘 1 hrs 40 mins
+🎮 The Elder Scrolls Online          🕘 0 hrs 46 mins
 🎮 Cyberpunk 2077                    🕘 1 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
