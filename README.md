@@ -77,7 +77,7 @@ Python     🕓 34m   ▋░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 SUPERHOT VR                       🕘 3 hrs 15 mins
-🎮 The Witcher 3: Wild Hunt          🕘 2 hrs 10 mins
+🎮 The Witcher 3: Wild Hunt          🕘 2 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
