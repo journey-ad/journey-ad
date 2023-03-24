@@ -76,8 +76,8 @@ Other      🕓 31m    ▌░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 The Witcher 3: Wild Hunt          🕘 4 hrs 4 mins
-🎮 SUPERHOT VR                       🕘 3 hrs 15 mins
+🎮 The Witcher 3: Wild Hunt          🕘 3 hrs 49 mins
+🎮 SUPERHOT VR                       🕘 2 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
