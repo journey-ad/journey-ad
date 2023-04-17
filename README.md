@@ -35,10 +35,8 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-#### iOS Shortcuts
-<sup>[这是什么动画？](https://www.icloud.com/shortcuts/bb3f97473f394b40b27a7da3781cae04)</sup>  
-<sup>[Pixiv 搜图](https://www.icloud.com/shortcuts/d9053ba69f32488dbf192da145e497c1)</sup>  
-<sup>[Pixiv 排行榜一键下载](https://www.icloud.com/shortcuts/e676c40f5022408e84c57fb7461a96c4)</sup>  
+#### Toys
+[AIGC收藏夹](https://aigc.getloli.com/)
 
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
