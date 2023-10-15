@@ -76,7 +76,7 @@ Ezhil      🕓 20m    ▍░░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 19 hrs 4 mins
 🔫 Counter-Strike 2                  🕘 0 hrs 23 mins
-🎮 Call of Duty®                     🕘 6 hrs 53 mins
+🎮 Call of Duty®                     🕘 7 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
