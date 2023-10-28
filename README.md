@@ -76,6 +76,7 @@ HTML       🕓 7m    ▍░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 2 hrs 3 mins
 🎮 Call of Duty®                     🕘 9 hrs 17 mins
+🎮 Affogato                          🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
