@@ -75,9 +75,9 @@ HTML       🕓 16m   ▍░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 19 hrs 14 mins
-🎮 Call of Duty®                     🕘 38 hrs 25 mins
+🎮 Call of Duty®                     🕘 37 hrs 20 mins
 🎮 SteamVR                           🕘 14 hrs 49 mins
-🎮 Desktop+                          🕘 14 hrs 28 mins
+🎮 Desktop+                          🕘 14 hrs 59 mins
 🎮 DeoVR Video Player                🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
