@@ -74,7 +74,7 @@ HTML       🕓 16m   ▍░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 2 hrs 29 mins
+💻 Wallpaper Engine                  🕘 1 hrs 13 mins
 🎮 Call of Duty®                     🕘 37 hrs 32 mins
 🎮 SteamVR                           🕘 16 hrs 40 mins
 🎮 Desktop+                          🕘 19 hrs 2 mins
