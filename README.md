@@ -76,8 +76,8 @@ HTML       🕓 10m   ▍░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 8 mins
 🎮 Call of Duty®                     🕘 38 hrs 19 mins
-🎮 SteamVR                           🕘 11 hrs 19 mins
-🎮 Desktop+                          🕘 14 hrs 2 mins
+🎮 SteamVR                           🕘 10 hrs 22 mins
+🎮 Desktop+                          🕘 13 hrs 5 mins
 🎮 DeoVR Video Player                🕘 1 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
