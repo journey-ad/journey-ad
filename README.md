@@ -76,7 +76,7 @@ TypeScript 🕓 55m   █▋░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Call of Duty®                     🕘 15 hrs 9 mins
 🎮 SteamVR                           🕘 1 hrs 50 mins
-🎮 Desktop+                          🕘 3 hrs 9 mins
+🎮 Desktop+                          🕘 2 hrs 6 mins
 🎮 VTOL VR                           🕘 0 hrs 5 mins
 🎮 DeoVR Video Player                🕘 1 hrs 10 mins
 ```
