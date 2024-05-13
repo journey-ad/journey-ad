@@ -76,9 +76,9 @@ Other      🕓 19m   ▍░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 1 hrs 25 mins
 🎮 Call of Duty®                     🕘 1 hrs 44 mins
-🔫 Counter-Strike 2                  🕘 0 hrs 8 mins
-🎮 SteamVR                           🕘 3 hrs 58 mins
+🎮 SteamVR                           🕘 4 hrs 4 mins
 🎮 Balatro                           🕘 0 hrs 21 mins
+🎮 DeoVR Video Player                🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
