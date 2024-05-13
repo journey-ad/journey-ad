@@ -76,7 +76,7 @@ Other      🕓 19m   ▍░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 1 hrs 25 mins
 🎮 Call of Duty®                     🕘 1 hrs 44 mins
-🎮 SteamVR                           🕘 10 hrs 52 mins
+🎮 SteamVR                           🕘 11 hrs 53 mins
 🎮 Balatro                           🕘 0 hrs 21 mins
 🎮 DeoVR Video Player                🕘 0 hrs 10 mins
 ```
