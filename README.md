@@ -76,7 +76,7 @@ JSON       🕓 30m   ▋░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 1 hrs 25 mins
 🎮 Call of Duty®                     🕘 1 hrs 44 mins
-🎮 SteamVR                           🕘 13 hrs 55 mins
+🎮 SteamVR                           🕘 15 hrs 46 mins
 🎮 Balatro                           🕘 0 hrs 21 mins
 🎮 DeoVR Video Player                🕘 0 hrs 10 mins
 ```
