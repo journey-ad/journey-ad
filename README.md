@@ -1,8 +1,8 @@
-<!--
-<p>
+<h2><a href="https://github.com/journey-ad"><img src="https://raw.githubusercontent.com/journey-ad/journey-ad/master/sayhi.svg" align="left" /></a>🌱</h2>
+
+<!--<p>
   <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
-</p>
--->
+</p>-->
 
 #### Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
@@ -48,7 +48,7 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
 -->
 
-⬇️**点击下方图片留言**⬇️
+##### ⬇️**点击下方图片留言**⬇️
 
 [![](https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=journey-ad@github:%20~&fontSize=13)](https://chat.getloli.com/room/@journey-ad.github?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
