@@ -78,7 +78,7 @@ Other       🕓 1h27m  █▏░░░░░░░░░░░░░░░░�
 ```text
 🎮 SteamVR                           🕘 1 hrs 1 mins
 🎮 Black Myth: Wukong Benchmark Tool 🕘 13 hrs 12 mins
-🎮 Hi-Fi RUSH                        🕘 0 hrs 30 mins
+🎮 Hi-Fi RUSH                        🕘 1 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
