@@ -80,7 +80,7 @@ HTML       🕓 1h3m  █▋░░░░░░░░░░░░░░░░░�
 🎮 SteamVR                           🕘 1 hrs 2 mins
 🎮 Black Myth: Wukong Benchmark Tool 🕘 13 hrs 14 mins
 🎮 Hi-Fi RUSH                        🕘 1 hrs 10 mins
-🎮 Black Myth: Wukong                🕘 0 hrs 13 mins
+🎮 Black Myth: Wukong                🕘 1 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
