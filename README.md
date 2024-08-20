@@ -79,7 +79,7 @@ HTML       🕓 1h3m  █▋░░░░░░░░░░░░░░░░░�
 💻 Wallpaper Engine                  🕘 50 hrs 6 mins
 🎮 SteamVR                           🕘 1 hrs 2 mins
 🎮 Black Myth: Wukong Benchmark Tool 🕘 13 hrs 14 mins
-🎮 Black Myth: Wukong                🕘 4 hrs 9 mins
+🎮 Black Myth: Wukong                🕘 5 hrs 9 mins
 🎮 Hi-Fi RUSH                        🕘 1 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
