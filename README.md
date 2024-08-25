@@ -78,7 +78,7 @@ JSON       🕓 1h    ██▍░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 52 hrs 27 mins
 🎮 SteamVR                           🕘 1 hrs 2 mins
-🎮 Black Myth: Wukong                🕘 22 hrs 20 mins
+🎮 Black Myth: Wukong                🕘 23 hrs 21 mins
 🎮 Black Myth: Wukong Benchmark Tool 🕘 13 hrs 14 mins
 🎮 Hi-Fi RUSH                        🕘 1 hrs 10 mins
 ```
