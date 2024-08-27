@@ -79,7 +79,7 @@ JSON       🕓 1h5m  ██▊░░░░░░░░░░░░░░░░�
 💻 Wallpaper Engine                  🕘 52 hrs 27 mins
 🎮 SteamVR                           🕘 1 hrs 2 mins
 🎮 Black Myth: Wukong                🕘 25 hrs 19 mins
-🎮 Black Myth: Wukong Benchmark Tool 🕘 4 hrs 21 mins
+🎮 Black Myth: Wukong Benchmark Tool 🕘 2 hrs 57 mins
 🎮 Hi-Fi RUSH                        🕘 1 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
