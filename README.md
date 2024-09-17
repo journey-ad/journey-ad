@@ -76,7 +76,7 @@ Vue.js     🕓 38m   █▍░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 9 hrs 56 mins
+💻 Wallpaper Engine                  🕘 12 hrs 0 mins
 🎮 SteamVR                           🕘 1 hrs 50 mins
 🎮 Black Myth: Wukong                🕘 0 hrs 5 mins
 🎮 VTOL VR                           🕘 1 hrs 3 mins
