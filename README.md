@@ -80,6 +80,7 @@ Other      🕓 57m   █▏░░░░░░░░░░░░░░░░░�
 🎮 SteamVR                           🕘 1 hrs 50 mins
 🎮 Black Myth: Wukong                🕘 0 hrs 5 mins
 🎮 VTOL VR                           🕘 1 hrs 3 mins
+🎮 Deadlock                          🕘 0 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
