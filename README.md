@@ -79,7 +79,7 @@ HTML        🕓 39m   █▋░░░░░░░░░░░░░░░░░
 💻 Wallpaper Engine                  🕘 10 hrs 51 mins
 🎮 SteamVR                           🕘 1 hrs 50 mins
 🎮 Black Myth: Wukong                🕘 0 hrs 5 mins
-🎮 Deadlock                          🕘 4 hrs 47 mins
+🎮 Deadlock                          🕘 6 hrs 5 mins
 🎮 VTOL VR                           🕘 1 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
