@@ -77,7 +77,7 @@ JSON       🕓 16m   ▍░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Battlefield™ 2042                 🕘 4 hrs 45 mins
-🎮 Marvel Rivals                     🕘 1 hrs 30 mins
+🎮 Marvel Rivals                     🕘 2 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
