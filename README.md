@@ -78,7 +78,7 @@ JSON       🕓 4m    ▎░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 9 mins
 🎮 Marvel Rivals                     🕘 8 hrs 28 mins
-🎮 Battlefield™ 2042                 🕘 4 hrs 21 mins
+🎮 Battlefield™ 2042                 🕘 3 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
