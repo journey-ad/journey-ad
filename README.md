@@ -78,6 +78,7 @@ TypeScript 🕓 28m   ▊░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 2 hrs 33 mins
 🎮 Marvel Rivals                     🕘 0 hrs 29 mins
+🎮 Battlefield™ 2042                 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
