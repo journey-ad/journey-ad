@@ -77,7 +77,7 @@ Pug                      🕓 37m    ▏░░░░░░░░░░░░  1.
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 24 mins
-🎮 Stellar Blade™                    🕘 30 hrs 6 mins
+🎮 Stellar Blade™                    🕘 31 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
