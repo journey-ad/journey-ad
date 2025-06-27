@@ -78,6 +78,7 @@ JavaScript               🕓 18m   ░░░░░░░░░░░░░░  
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 24 mins
 🎮 Stellar Blade™                    🕘 43 hrs 10 mins
+🎮 Slay the Spire                    🕘 0 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
