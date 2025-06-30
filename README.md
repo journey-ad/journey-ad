@@ -77,7 +77,7 @@ Docker     🕓 15m    ▏░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 4 mins
-🎮 Stellar Blade™                    🕘 24 hrs 42 mins
+🎮 Stellar Blade™                    🕘 24 hrs 32 mins
 🎮 Slay the Spire                    🕘 0 hrs 54 mins
 🎮 MiSide                            🕘 0 hrs 20 mins
 ```
