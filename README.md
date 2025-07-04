@@ -78,7 +78,7 @@ Other                    🕓 30m    ▎░░░░░░░░░░░░  1.
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 4 mins
 🎮 Stellar Blade™                    🕘 20 hrs 17 mins
-🎮 Mecha BREAK                       🕘 3 hrs 51 mins
+🎮 Mecha BREAK                       🕘 4 hrs 22 mins
 🎮 Slay the Spire                    🕘 0 hrs 54 mins
 🎮 MiSide                            🕘 0 hrs 20 mins
 ```
