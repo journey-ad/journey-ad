@@ -77,7 +77,7 @@ JavaScript               🕓 38m    ▎░░░░░░░░░░░░  2.
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 22 mins
-🎮 Stellar Blade™                    🕘 4 hrs 0 mins
+🎮 Stellar Blade™                    🕘 2 hrs 54 mins
 🎮 Mecha BREAK                       🕘 10 hrs 15 mins
 🎮 Slay the Spire                    🕘 0 hrs 54 mins
 🎮 MiSide                            🕘 0 hrs 20 mins
