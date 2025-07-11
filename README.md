@@ -78,7 +78,6 @@ Markdown                 🕓 17m    ▏░░░░░░░░░░░░  1.
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 22 mins
 🎮 Mecha BREAK                       🕘 13 hrs 7 mins
-🎮 Slay the Spire                    🕘 0 hrs 54 mins
 🎮 MiSide                            🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
