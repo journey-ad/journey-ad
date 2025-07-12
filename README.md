@@ -78,7 +78,6 @@ JSON       🕓 49m    ▋░░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 22 mins
 🎮 Mecha BREAK                       🕘 13 hrs 7 mins
-🎮 MiSide                            🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
