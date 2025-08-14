@@ -78,7 +78,7 @@ JSON                     🕓 57m   ▋░░░░░░░░░░░░░  
 ```text
 🎮 Cloud Gardens                     🕘 0 hrs 4 mins
 🎮 To the Moon                       🕘 0 hrs 1 mins
-🎮 Brotato                           🕘 2 hrs 0 mins
+🎮 Brotato                           🕘 2 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
