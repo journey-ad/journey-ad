@@ -76,7 +76,7 @@ JSON        🕓 3h16m  ██▏░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Brotato                           🕘 0 hrs 18 mins
+🚫 啊哦，最近好像没有玩过游戏呢
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
