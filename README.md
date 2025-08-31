@@ -78,6 +78,7 @@ JSON       🕓 2h22m ██▏░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 19 mins
 🎮 Beyond: Two Souls                 🕘 10 hrs 47 mins
+🎮 Nickelodeon All-Star Brawl        🕘 0 hrs 14 mins
 🎮 WRC 7                             🕘 0 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
