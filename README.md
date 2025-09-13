@@ -77,7 +77,7 @@ Markdown   🕓 39m    █░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 5 hrs 46 mins
-🎮 Beyond: Two Souls                 🕘 4 hrs 54 mins
+🎮 Beyond: Two Souls                 🕘 4 hrs 6 mins
 🎮 Nickelodeon All-Star Brawl        🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
