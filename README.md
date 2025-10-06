@@ -74,7 +74,7 @@ JavaScript 🕓 13m ███████████▊░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 1 hrs 26 mins
-🎮 Kingdom Come: Deliverance II      🕘 9 hrs 0 mins
+🎮 Kingdom Come: Deliverance II      🕘 9 hrs 47 mins
 🎮 Frostpunk                         🕘 0 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
