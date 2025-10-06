@@ -75,6 +75,7 @@ JavaScript 🕓 13m ███████████▊░░░░░░░░
 ```text
 💻 Wallpaper Engine                  🕘 1 hrs 26 mins
 🎮 Kingdom Come: Deliverance II      🕘 6 hrs 59 mins
+🎮 Frostpunk                         🕘 0 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
