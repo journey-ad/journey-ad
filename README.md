@@ -78,6 +78,7 @@ JSON       🕓 3m  █░░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Kingdom Come: Deliverance II      🕘 19 hrs 1 mins
 🎮 Frostpunk                         🕘 0 hrs 46 mins
+🎮 Battlefield™ 6                    🕘 0 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
