@@ -78,7 +78,7 @@ Other      🕓 5m     ▏░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Battlefield™ 6                    🕘 82 hrs 15 mins
 🔫 Fistful of Frags                  🕘 1 hrs 40 mins
-🎮 Kingdom Come: Deliverance II      🕘 13 hrs 4 mins
+🎮 Kingdom Come: Deliverance II      🕘 12 hrs 1 mins
 🎮 Frostpunk                         🕘 0 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
