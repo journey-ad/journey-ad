@@ -78,8 +78,8 @@ JSON       🕓 12m    ▎░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Battlefield™ 6                    🕘 86 hrs 8 mins
 🔫 Fistful of Frags                  🕘 1 hrs 40 mins
-🎮 Kingdom Come: Deliverance II      🕘 2 hrs 54 mins
-🎮 Escape from Duckov                🕘 3 hrs 48 mins
+🎮 Kingdom Come: Deliverance II      🕘 1 hrs 19 mins
+🎮 Escape from Duckov                🕘 5 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
