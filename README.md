@@ -78,7 +78,7 @@ TypeScript 🕓 15m   ▍░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Battlefield™ 6                    🕘 88 hrs 16 mins
 🔫 Fistful of Frags                  🕘 1 hrs 40 mins
-🎮 Escape from Duckov                🕘 26 hrs 34 mins
+🎮 Escape from Duckov                🕘 27 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
