@@ -76,7 +76,7 @@ TypeScript 🕓 15m   ▍░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Battlefield™ 6                    🕘 87 hrs 21 mins
+🎮 Battlefield™ 6                    🕘 88 hrs 16 mins
 🔫 Fistful of Frags                  🕘 1 hrs 40 mins
 🎮 Escape from Duckov                🕘 26 hrs 34 mins
 ```
