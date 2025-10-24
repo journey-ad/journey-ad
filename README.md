@@ -78,7 +78,7 @@ Other      🕓 19m   ▉░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Battlefield™ 6                    🕘 88 hrs 16 mins
 🔫 Fistful of Frags                  🕘 1 hrs 40 mins
-🎮 Escape from Duckov                🕘 34 hrs 9 mins
+🎮 Escape from Duckov                🕘 34 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
