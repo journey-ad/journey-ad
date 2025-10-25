@@ -76,9 +76,9 @@ JSON       🕓 25m   ▉░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Battlefield™ 6                    🕘 81 hrs 8 mins
+🎮 Battlefield™ 6                    🕘 80 hrs 0 mins
+🎮 Escape from Duckov                🕘 40 hrs 1 mins
 🔫 Fistful of Frags                  🕘 1 hrs 40 mins
-🎮 Escape from Duckov                🕘 38 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
