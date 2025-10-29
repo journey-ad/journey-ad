@@ -76,7 +76,7 @@ Less       🕓 5m    ▏░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Battlefield™ 6                    🕘 44 hrs 29 mins
+🎮 Battlefield™ 6                    🕘 43 hrs 20 mins
 🎮 Escape from Duckov                🕘 52 hrs 29 mins
 🔫 Fistful of Frags                  🕘 1 hrs 40 mins
 ```
