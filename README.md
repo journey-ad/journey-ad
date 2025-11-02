@@ -78,7 +78,6 @@ HTML       🕓 11m    ▍░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Battlefield™ 6                    🕘 16 hrs 52 mins
 🎮 Escape from Duckov                🕘 52 hrs 29 mins
-🔫 Fistful of Frags                  🕘 0 hrs 17 mins
 🎮 Clair Obscur: Expedition 33       🕘 2 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
