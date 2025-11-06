@@ -77,7 +77,7 @@ HTML        🕓 17m   ▋░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Battlefield™ 6                    🕘 6 hrs 11 mins
-🎮 Escape from Duckov                🕘 32 hrs 48 mins
+🎮 Escape from Duckov                🕘 31 hrs 32 mins
 🎮 Clair Obscur: Expedition 33       🕘 2 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
