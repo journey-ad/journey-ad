@@ -78,6 +78,7 @@ Stata       🕓 8m    ▍░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Battlefield™ 6                    🕘 4 hrs 3 mins
 🎮 Escape from Duckov                🕘 9 hrs 38 mins
+🎮 Gorogoa                           🕘 0 hrs 36 mins
 🎮 Clair Obscur: Expedition 33       🕘 2 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
