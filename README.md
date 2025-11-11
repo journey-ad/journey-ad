@@ -77,7 +77,7 @@ TypeScript  🕓 24m   █▎░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Battlefield™ 6                    🕘 4 hrs 3 mins
-🎮 Escape from Duckov                🕘 0 hrs 58 mins
+🎮 Escape from Duckov                🕘 0 hrs 23 mins
 🎮 Moncage                           🕘 0 hrs 29 mins
 🎮 Gorogoa                           🕘 0 hrs 36 mins
 🎮 Clair Obscur: Expedition 33       🕘 2 hrs 40 mins
