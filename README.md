@@ -79,7 +79,7 @@ Other      🕓 12m   ▉░░░░░░░░░░░░░░░░░░�
 🎮 Escape from Duckov                🕘 0 hrs 23 mins
 🎮 Moncage                           🕘 0 hrs 29 mins
 🎮 Gorogoa                           🕘 0 hrs 36 mins
-🎮 Clair Obscur: Expedition 33       🕘 2 hrs 2 mins
+🎮 Clair Obscur: Expedition 33       🕘 0 hrs 29 mins
 🎮 Nickelodeon All-Star Brawl        🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
