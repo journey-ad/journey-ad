@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/MacBook-M4%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/en-us/121553)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
-[![](https://img.shields.io/badge/Samsung-S20-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.samsung.com/us/app/mobile/galaxy-s20-5g/)
+[![](https://img.shields.io/badge/OPPO-Find%20N5-006C32?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.oppo.com/cn/smartphones/series-find-n/find-n5/)
 [![](https://img.shields.io/badge/iPhone-13%20Pro-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)   
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
@@ -37,6 +37,7 @@
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Bun-13151B?style=for-the-badge&logo=bun&logoColor=FBF0DF)](https://bun.com/)
 
 <!--
 #### Toys
