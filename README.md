@@ -79,7 +79,7 @@ Other      🕓 40m   ▉░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Escape from Duckov                🕘 0 hrs 23 mins
 🎮 Moncage                           🕘 0 hrs 29 mins
-🎮 Gorogoa                           🕘 0 hrs 36 mins
+🎮 Gorogoa                           🕘 0 hrs 19 mins
 🎮 Nickelodeon All-Star Brawl        🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
