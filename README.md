@@ -77,7 +77,7 @@ YAML       🕓 16m    ▌░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 PRAGMATA                          🕘 9 hrs 16 mins
+🎮 PRAGMATA                          🕘 6 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
