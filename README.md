@@ -77,7 +77,7 @@ Slint                    🕓 4h41m  ▉░░░░░░░░░░░░  7.
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Phantom Blade Zero                🕘 25 hrs 53 mins
+🎮 Phantom Blade Zero                🕘 20 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
