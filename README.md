@@ -60,11 +60,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
 ```text
-Rust             🕓 19h10m ███████▉░░░░░░░░░░░░░ 37.9%
-Image (png)      🕓 9h27m  ███▉░░░░░░░░░░░░░░░░░ 18.7%
-Markdown         🕓 6h15m  ██▌░░░░░░░░░░░░░░░░░░ 12.3%
-Other            🕓 5h41m  ██▎░░░░░░░░░░░░░░░░░░ 11.2%
-Python           🕓 3h32m  █▍░░░░░░░░░░░░░░░░░░░  7.0%
+Rust            🕓 17h32m ████████▏░░░░░░░░░░░░░ 36.9%
+Image (png)     🕓 10h22m ████▊░░░░░░░░░░░░░░░░░ 21.9%
+Markdown        🕓 6h41m  ███░░░░░░░░░░░░░░░░░░░ 14.1%
+TypeScript      🕓 3h11m  █▍░░░░░░░░░░░░░░░░░░░░  6.7%
+Python          🕓 2h38m  █▏░░░░░░░░░░░░░░░░░░░░  5.5%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
